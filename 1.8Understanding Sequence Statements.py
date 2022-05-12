@@ -1,0 +1,10 @@
+print("Hello world")
+myName=input("Please enter your name:")
+print("Hello " + myName)
+print("Please enter your first number: ")
+number1=input ()
+number2=input("Please enter your second number: ")
+number1=int(number1)
+number2=int(number2)
+answer=number1 + number2
+print(f'The answer to {number1} + {number2} is {answer} ')
