@@ -1,2 +1,2 @@
 # Python-Scripting-Coding
-i will display my Pyhton programming work here!
+i will display my Python programming work here!
